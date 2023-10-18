@@ -28,6 +28,10 @@ public class VulnerableTaskHolder implements Serializable {
   public Object toString2() { // prova commit
 	  return null;
   }
+  
+  public Object toString3() { // prova commit 2
+	  return null;
+  }
 
   @Override
   public String toString() {
